@@ -11,4 +11,4 @@
 
 1. Для отчётов Allure на Jenkins был установлен Allure Plugin и добавлен CLI в разделе "конфигурация глобальных инструментов": /configureTools/
 2. Для отчётов по результатам запуска Taurus был установлен Performance Plugin
-3. Для работы Taurus на сервер с Jenkins'ом был установлен virtualenv
+3. Для работы Taurus на сервер с Jenkins'ом был установлен virtualenv.
